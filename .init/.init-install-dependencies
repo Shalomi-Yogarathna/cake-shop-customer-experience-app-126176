@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/cake-shop-customer-experience-app-126176/cake_shop_database"
+}
